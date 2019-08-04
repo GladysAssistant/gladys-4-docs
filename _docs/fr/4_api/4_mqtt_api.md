@@ -122,4 +122,25 @@ Example 2:
   "type": "binary",
   "state": 1
 }
+
+```
+
+#### Envoyer un nouvel état de périphérique (compatibilité V3)
+
+Cette partie permet de conserver la compatibilité des périphériques MQTT créé pour Gladys V3.
+
+Topic:
+```
+/gladys/device/devicestate/new
+```
+
+Example 1:
+```json
+{
+  "identifier": "philips-hue:1"
+  "type": "binary",
+  "state": {
+    "value": 1
+  }
+}
 ```
