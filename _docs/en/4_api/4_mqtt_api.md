@@ -113,3 +113,23 @@ Example 2:
   "state": 1
 }
 ```
+
+#### Push a new device state (backward compatibility)
+
+This part allows to keep backward compatibility with Gladys V3 device state topic.
+
+Topic:
+```
+/gladys/device/devicestate/new
+```
+
+Example 1:
+```json
+{
+  "identifier": "philips-hue:1"
+  "type": "binary",
+  "state": {
+    "value": 1
+  }
+}
+```
