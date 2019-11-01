@@ -20,6 +20,7 @@ Comme prérequis système, il vous faut:
 - sqlite3
 - openssl
 - openzwave + libopenzwave1.5-dev
+- python
 
 Une bonne aide pour mettre en place son environnement peut-être d'aller regarder le [fichier de configuration de CircleCI](https://github.com/GladysAssistant/Gladys/blob/master/.circleci/config.yml).
 
