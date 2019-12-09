@@ -76,7 +76,7 @@ As the created application is not the _official one_, you have to enable the dev
 1. Tap **Add device** on the **Dashboard** tab of the SmartThings app.
 <img src="/assets/image/configuration/samsung-smartthings/add_testing_device_1.jpg" alt="SmartThings add device 1" class="img-responsive" width="600" />
 
-2. Appuyez sur **Ajoutez manuellement un appareil** puis **My Testing Devices**. Vous devriez y vous votre application **Gladys V4**.
+2. Go to **ADD DEVICE MANUALLY** and click **My Testing Devices**. You can now see and add your self-published devices.
 <img src="/assets/image/configuration/samsung-smartthings/add_testing_device_2.jpg" alt="SmartThings add device 2" class="img-responsive" width="600" />
 
-3. Confirmez le lien en cliquant sur **Accepter** de la page Gladys.
+3. Confirm the connection by selecting **ALLOW** on Gladys web page.
