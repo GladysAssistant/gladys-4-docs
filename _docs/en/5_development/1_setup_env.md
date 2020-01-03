@@ -20,6 +20,7 @@ You'll need:
 - sqlite3
 - openssl
 - openzwave + libopenzwave1.5-dev
+- python
 
 A good help can be to look at [CircleCI config file](https://github.com/GladysAssistant/Gladys/blob/master/.circleci/config.yml).
 
