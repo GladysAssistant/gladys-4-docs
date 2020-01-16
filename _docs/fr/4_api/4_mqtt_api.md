@@ -112,3 +112,21 @@ Example 1 :
   "state": 1
 }
 ```
+
+#### Réception d'un nouvel état de périphérique
+
+L'action provient de Gladys, lors d'un changement d'état, propagée à travers le réseau MQTT, et reçue par le périphérique afin de changer son état.
+
+
+Topic:
+
+```
+gladys/${feature_id}/update
+```
+
+Payload: nouvel état du périphérique.
+
+Example 1 :
+Ma fonctionnalité a comme ID `mqtt:my_device` et son état est changé de "éteind" (`0`) à "allumé" (`1`).
+Topic: `gladys/my_device/update`
+Payload: `1`

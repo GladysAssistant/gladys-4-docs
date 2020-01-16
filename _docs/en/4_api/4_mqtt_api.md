@@ -114,3 +114,20 @@ Example 1:
   "state": 1
 }
 ```
+
+#### Receive a request to change device state
+
+Action comes from Gladys, published over MQTT network, and should be handled by MQTT device.
+
+Topic:
+
+```
+gladys/${feature_id}/update
+```
+
+Payload: the new device state.
+
+Example 1:
+My device feature ID is `mqtt:my_device` and changes from OFF (`0`) to ON (`1`).
+Topic: `gladys/my_device/update`
+Payload: `1`
