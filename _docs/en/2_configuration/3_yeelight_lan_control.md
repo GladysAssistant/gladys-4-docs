@@ -19,31 +19,31 @@ You first need to install the "Yeelight" application and connect all your device
 
 ### Step 1
 
-<img src="/assets/image/configuration/yeelight/yeelight-lan-control-1.jpg" alt="Yeelight Tuto 1" class="img-responsive" width="300" />
+<img src="/assets/image/configuration/yeelight/yeelight-lan-control-1.png" alt="Yeelight Tuto 1" class="img-responsive" width="300" />
 
 Open the "Yeelight" application and go to "Device".
 
 ### Step 2
 
-<img src="/assets/image/configuration/yeelight/yeelight-lan-control-2.jpg" alt="Yeelight Tuto 2" class="img-responsive" width="300" />
+<img src="/assets/image/configuration/yeelight/yeelight-lan-control-2.png" alt="Yeelight Tuto 2" class="img-responsive" width="300" />
 
 Select a device.
 
 ### Step 3
 
-<img src="/assets/image/configuration/yeelight/yeelight-lan-control-3.jpg" alt="Yeelight Tuto 3" class="img-responsive" width="300" />
+<img src="/assets/image/configuration/yeelight/yeelight-lan-control-3.png" alt="Yeelight Tuto 3" class="img-responsive" width="300" />
 
 Click "more" icon.
 
 ### Step 4
 
-<img src="/assets/image/configuration/yeelight/yeelight-lan-control-4.jpg" alt="Yeelight Tuto 4" class="img-responsive" width="300" />
+<img src="/assets/image/configuration/yeelight/yeelight-lan-control-4.png" alt="Yeelight Tuto 4" class="img-responsive" width="300" />
 
 Choose "LAN Control".
 
 ### Step 5
 
-<img src="/assets/image/configuration/yeelight/yeelight-lan-control-5.jpg" alt="Yeelight Tuto 5" class="img-responsive" width="300" />
+<img src="/assets/image/configuration/yeelight/yeelight-lan-control-5.png" alt="Yeelight Tuto 5" class="img-responsive" width="300" />
 
 Enable "LAN Control".
 
