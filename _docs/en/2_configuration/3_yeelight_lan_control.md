@@ -1,6 +1,6 @@
 ---
 layout: docs
-name: yeelight-configuration
+name: yeelight-lan-control
 title: Activate "LAN Control" on the Yeelight devices
 category: Configuration
 permalink: "/en/configuration"
