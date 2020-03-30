@@ -3,14 +3,14 @@ layout: docs
 name: yeelight-configuration
 title: Activer "LAN Control" sur les périphériques Yeelight
 category: Configuration
-permalink: "/en/configuration"
-lang: en
+permalink: "/fr/configuration"
+lang: fr
 ---
 
 L'activation de "LAN Control" permet à Gladys d'accéder aux appareils Yeelight sur le réseau local.
 Vous devez d'abord installer l'application "Yeelight" et connecter tous vos appareils ([how-to](https://www.yeelight.com/faqs/yeelight-app)), avant d'activer "LAN Control" (*si cela est déjà fait, allez à "[Activer "LAN Control"](#activer-lan-control)"*).
 
-<img src="/assets/image/configuration/yeelight/yeelight-logo.png" alt="Yeelight icon" class="img-responsive" />
+<img src="/assets/image/configuration/yeelight/yeelight-logo.png" alt="Yeelight icon" class="img-responsive" width="120" />
 
 - [Yeelight pour Android](https://play.google.com/store/apps/details?id=com.yeelight.cherry "Yeelight pour Android")
 - [Yeelight pour iPhone/iPad](https://apps.apple.com/fr/app/yeelight/id977125608 "Yeelight pour iPhone/iPad")
