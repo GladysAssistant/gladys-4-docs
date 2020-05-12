@@ -12,13 +12,13 @@ This tutorial will explain you how to add a new integration to the core.
 
 ### Setup your development environnement
 
-I recommended you follow the instructions on the [Github repository](https://github.com/GladysAssistant/gladys-4-playground) to install Gladys 4 on your machine for development purpose.
+I recommended you follow the instructions on the [Github repository](https://github.com/GladysAssistant/Gladys) to install Gladys 4 on your machine for development purpose.
 
 ### Server-side
 
 #### Create a new folder for your service
 
-All services are located inside the [server/services](https://github.com/GladysAssistant/gladys-4-playground/tree/master/server/services) folder.
+All services are located inside the [server/services](https://github.com/GladysAssistant/Gladys/tree/master/server/services) folder.
 
 Create a new folder with the name of your service. The name should be alphanumeric, in lowercase, and with dashes as separator if needed.
 
@@ -103,7 +103,7 @@ module.exports = function ExampleService(gladys) {
 
 #### Linking your service to Gladys
 
-When your service is ready to be tested, you can edit the [server/services/index.js](https://github.com/GladysAssistant/gladys-4-playground/blob/master/server/services/index.js) file and add the require to your service.
+When your service is ready to be tested, you can edit the [server/services/index.js](https://github.com/GladysAssistant/Gladys/blob/master/server/services/index.js) file and add the require to your service.
 
 #### Unit-tests
 
@@ -111,9 +111,9 @@ Gladys 4 main goal is to be a reliable and stable core.
 
 Therefore, all services of Gladys should be fully tested with a test coverage > 90%.
 
-Tests of services are located in the folder [server/test/services](https://github.com/GladysAssistant/gladys-4-playground/tree/master/server/test/services).
+Tests of services are located in the folder [server/test/services](https://github.com/GladysAssistant/Gladys/tree/master/server/test/services).
 
-I suggest you have a look at the [tests of the example service](https://github.com/GladysAssistant/gladys-4-playground/tree/master/server/test/services/example) to give you an idea of how tests looks like.
+I suggest you have a look at the [tests of the example service](https://github.com/GladysAssistant/Gladys/tree/master/server/test/services/example) to give you an idea of how tests looks like.
 
 To run tests, in the `server` folder run:
 
